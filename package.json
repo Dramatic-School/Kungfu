@@ -10,7 +10,7 @@
     "express": "^4.13.3",
     "eslint": "^8.26.0",
     "typescript": "^4.8.4",
-    "jquery": "1.12.3",
+    "jquery": "3.5.0",
     "minimatch": "^5.1.0",
     "@babel/core": "^7.0.0",  
     "@babel/preset-react": "^7.18.6"
